@@ -1,0 +1,17 @@
+"This course will introduce the core data structures of the Python programming
+language. We will move past the basics of procedural programming and explore 
+how we can use the Python built-in data structures such as lists, dictionaries, 
+and tuples to perform increasingly complex data analysis. This course will 
+cover Chapters 6-10 of the textbook “Python for Informatics”. This course 
+is equivalent to the second half of the 11-week "Programming for Everybody 
+(Python)" course. This course covers Python 2."
+
+My solutions and notes are for Python 3!!! The course video is Python
+2, but the author (Charles Severance) has re-written the book for
+Python 3.x!!! It follows along well with the course and previous book.
+New book (Python 3) is called "Python for Everybody"... link to free PDF
+of book below. For reference on Github, old book is called 
+"Python for Informatics". Both by Charles R Severance
+
+http://pythonlearn.com
+http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
