@@ -1,0 +1,7 @@
+String Methods - https://docs.python.org/2/library/stdtypes.html#
+
+..find() to search for substring in another string. Finds FIRST occurance of substring.
+If substring not found, returns -1
+..replace() to "search and replace". ALL occurances in string are replaced
+.. lstrip(), rstrip(), strip() - removes space to left, right, all
+..startswith() - give True or False for [0] in string
