@@ -13,3 +13,19 @@ for word in filespl:
     d[word] = 0
 
 print(d)
+
+## OR
+
+'''
+file = open('romeo.txt')
+d = dict()
+file = file.read()
+
+for words in file:
+    words = file.split()
+
+for word in words:
+    d[word] = 0
+
+print(d)
+'''
