@@ -14,7 +14,7 @@ t = list()
 count = 0
 
 for line in file:
-    line = line.rstrip()
+    line.rstrip()
     if line.startswith('From '):
         count = count + 1
         address = line.split()
