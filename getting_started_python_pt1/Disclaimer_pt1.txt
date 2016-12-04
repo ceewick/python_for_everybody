@@ -1,6 +1,14 @@
 Part_1: 
 
 #Note - Using Python 3.5.2
-#Disclaimer - It has been a couple of months since I did the earlier chapters. AND all of my work was wiped off of my computer, so I few weeks ago I kind of rushed through the problems again, just so I would have them (another reason I am backing them up on here). On top of my elementary development status, I also rushed to re-type / re-work the ealier problems after everything was deleted... so the code is likey ugly, and there are probably more elegant ways to do it... still figured worth a share. 
+#Disclaimer - It has been a couple of months since I did the earlier chapters (and initally they 
+were in Python... luckily I realized after a few weeks and tried migrating them to Py3. 
+
+About a month in... all of my work was wiped off of my computer (another reason I am backing things
+up on here), so I tired to re-work the problems again when I will still getting started BUT on top 
+of my elementary development status, the rush might have given more errors or code that is likey 
+ugly... still figured worth a share. I know that there's always a better way to do something.
+
+Part 1 Summary:
 
 '''This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Informatics”.   This course is equivalent to the first half of the 11-week "Programming for Everybody (Python)" course.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 2.'''
