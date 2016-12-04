@@ -6,8 +6,8 @@ Count these lines and extract the floating point values from each of
 the lines and compute the average of those values and produce an output
 as shown below. Do not use the sum() function or a variable named sum in
 your solution. When you are testing below enter mbox-short.txt as
-the file name (located in "files" on github -
-python_for_everybody/data_structures_pt2/files/mbox-short.txt).'''
+the file name (can download file on main page at:
+https://github.com/ceewick/python_for_everybody'''
 
 try:
     inp = input('file name? - try "mbox-short.txt" - download on github: ')
